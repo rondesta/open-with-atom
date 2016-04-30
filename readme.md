@@ -1,7 +1,3 @@
-**This project has merged to <https://github.com/fallroot/applescript-applets>**
-
----
-
 # Open with Atom
 
 This is a application for using Atom with selected folders or files in Finder (also Path Finder).
